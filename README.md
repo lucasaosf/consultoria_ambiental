@@ -1,9 +1,16 @@
 # Consultoria ambiental — scripts em R
 
-Scripts em R usados em relatórios de consultoria ambiental para analisar dados de levantamento de fauna.
+[![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
+[![R](https://img.shields.io/badge/Language-R-blue.svg)](https://www.r-project.org/)
+[![Status](https://img.shields.io/badge/Status-Ativo-success.svg)](#)
+
+Scripts em R usados em relatórios de consultoria ambiental para analisar dados de levantamento e monitoramento de fauna silvestre (Herpetofauna, Avifauna e Mastofauna).
+
 **Lucas Aøsf** · Pesquisa & Soluções Ambientais
 
-## Scripts
+---
+
+## 📊 Scripts e Métodos Estatísticos
 
 | Arquivo | O que faz | Pacotes |
 |---|---|---|
@@ -12,11 +19,20 @@ Scripts em R usados em relatórios de consultoria ambiental para analisar dados 
 | `Similaridade.R` | Dendrograma por distância euclidiana e NMDS colorido por ponto | `vegan`, `cluster`, `ape`, `readxl` |
 | `Converter Planilhas EBIRD.R` | Converte a exportação do eBird (.csv) em planilha Excel e limpa os nomes das espécies | `openxlsx` |
 
-## Como usar
+---
 
-1. Abra o script no **RStudio**.
+## 🚀 Como usar
+
+1. Abra o script desejado no **RStudio**.
 2. Instale os pacotes da tabela (as linhas `install.packages()` estão no começo de cada script).
 3. Rode o script: uma janela pede para escolher a planilha de dados (`file.choose()`).
 4. Ajuste o número da aba (`sheet = …`) conforme a sua planilha.
 
-Os dados de entrada são matrizes de espécies × pontos (ou anos), com as espécies na primeira coluna.
+> [!NOTE]
+> Os dados de entrada são matrizes de espécies × pontos (ou anos), com as espécies na primeira coluna.
+
+---
+
+## 📄 Licença
+
+Distribuído sob a licença [MIT](LICENSE).
