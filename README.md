@@ -66,7 +66,7 @@ Se você utilizar estes scripts, matrizes ecológicas ou rotinas analíticas em 
 ```bibtex
 @misc{ferreira2026consultoriaambiental,
   title={Scripts em R para Consultoria e Análises Ambientais},
-  author={Lucas José Alves de Oliveira Simões Ferreira},
+  author={Lucas Aosf},
   year={2026},
   publisher={GitHub},
   journal={GitHub repository},
