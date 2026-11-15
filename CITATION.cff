@@ -1,0 +1,10 @@
+﻿cff-version: 1.2.0
+message: 'Se voce usar estes scripts em relatorios ou artigos, cite como:'
+title: 'Scripts em R para Consultoria e Analises Ambientais'
+authors:
+  - family-names: 'Ferreira'
+    given-names: 'Lucas Jose Alves de Oliveira Simoes'
+    alias: 'Lucas Aosf'
+date-released: 2026-11-14
+url: 'https://github.com/lucasaosf/consultoria_ambiental'
+
