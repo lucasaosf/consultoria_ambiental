@@ -59,6 +59,40 @@ O repositório inclui 10 guias aprofundados na pasta [`guias/`](guias/):
 
 ---
 
+## Citation
+
+Se você utilizar estes scripts, matrizes ecológicas ou rotinas analíticas em relatórios técnicos, laudos ambientais (EIA/RIMA, PCA, RCA) ou publicações acadêmicas, cite como:
+
+```bibtex
+@misc{ferreira2026consultoriaambiental,
+  title={Scripts em R para Consultoria e Análises Ambientais},
+  author={Lucas José Alves de Oliveira Simões Ferreira},
+  year={2026},
+  publisher={GitHub},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/lucasaosf/consultoria_ambiental}},
+  url={https://github.com/lucasaosf/consultoria_ambiental}
+}
+```
+
+Para citar a obra metodológica de referência:
+
+```bibtex
+@book{silva2022analises,
+  title={Análises ecológicas no R},
+  author={da Silva, Fernando Rodrigues and Gonçalves-Souza, Thiago and Paterno, Gustavo Brant and Provete, Diogo Borges and Vancine, Maurício Humberto},
+  year={2022},
+  edition={1},
+  pages={640},
+  publisher={Nupeea; Canal 6},
+  address={Recife; São Paulo},
+  isbn={978-65-87511-14-6},
+  url={https://analises-ecologicas.com/}
+}
+```
+
+---
+
 ## 📄 Licença
 
 Distribuído sob a licença [MIT](LICENSE).
